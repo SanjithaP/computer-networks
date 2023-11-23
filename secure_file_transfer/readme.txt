@@ -1,1 +1,1 @@
-"this subfolder has code for secure file transfer"
+"this sub-folder has code for secure file transfer"
